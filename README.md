@@ -150,7 +150,7 @@ Generative-AI-RAG-based-Enterprise-Knowledge-Assistant/
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/Generative-AI-RAG-based-Enterprise-Knowledge-Assistant.git
+git clone https://github.com/ai-exploration-lab/Generative-AI-RAG-based-Enterprise-Knowledge-Assistant.git
 
 cd Generative-AI-RAG-based-Enterprise-Knowledge-Assistant
 ```
@@ -358,6 +358,5 @@ to the insurance provider for authorization.
 
 # Author
 
-**Mohammed H**
-
-Senior Frontend Engineer
+**Husain H**
+Senior Software Engineer
